@@ -1,4 +1,5 @@
-[
+{
+    "products":[
     {
       "id": 1,
       "img": "/images/prod1.png",
@@ -64,3 +65,4 @@
       "quantity": 1
     }
   ]
+}
